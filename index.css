@@ -370,3 +370,170 @@ opacity: 0.6;
 
     color: rgb(59, 59, 59);
 }
+
+
+
+
+@media (max-width:800px){
+
+    #logoimg{
+        
+        height: 2cm;
+        width: auto;
+        margin-left: 20px;
+    }
+
+
+    #services{
+        
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+
+    #prices{
+    
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+
+    #Discord{
+        
+        height: 46px;
+        width: auto;
+        margin-left: 0px;
+    }
+
+
+
+
+    #Instagram{
+        
+        height: 47px;
+        width: auto;
+        margin-left: 3px;
+    }
+
+
+
+
+
+    #Twitter{
+        
+        height: 45px;
+        width: auto;
+        margin-left: 0px;
+    }
+
+
+
+
+    #Twitch{
+        
+        height: 45px;
+        width: auto;
+        margin-left: 0px;
+    }
+
+
+
+
+    #Fondo{
+        
+        background-image: url("./img/fondoxddd.jpg");
+    }
+
+
+    #Productos{
+        
+        margin-left: 2cm;
+        font-size: 50px;
+    }
+
+
+    .Y{
+    
+        margin-left: 5cm;
+    }
+
+    .YZ{
+    
+        margin-left: 2.7cm;
+        font-size: 40px;
+    }
+
+
+
+    #Bo{
+        
+        margin-top: 3cm;
+        margin-left: 3cm;
+    }
+
+
+    #Hackin{
+        
+        margin-top: 1cm;
+        margin-left: 2.3cm;
+    }
+
+
+    #Pagina{
+        
+        margin-top: 1cm;
+        margin-left: 1.4cm;
+    }
+
+
+
+    .Capa2{
+    
+        width: 80px;
+        height: 40cm;
+        margin-top: 90cm;
+    }
+
+
+    #Preciosxd{
+    
+        margin-left: 0cm;
+        font-size: 1cm;
+    }
+
+
+    #colorxd{
+    
+        font-size: 0.7cm;
+        margin-left: 0cm;
+    }
+
+
+
+
+
+
+    #Bot2{
+        
+        margin-top: 3cm;
+        margin-left: 3cm;
+    }
+
+
+    #Hacking2{
+        
+        margin-top: 1cm;
+        margin-left: 2.3cm;
+    }
+
+
+    #Paginas2{
+        
+        margin-top: 1cm;
+        margin-left: 1.4cm;
+    }
+
+
+}
