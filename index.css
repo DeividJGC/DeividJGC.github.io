@@ -1,0 +1,372 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+
+h6{color: white;}
+h5{color: white;}
+h4{color: white;}
+h3{color: white; font-size: 1cm;}
+h2{color: white;}
+h1{color: white;}
+
+a{text-decoration: none;}
+
+
+body{
+    background-color: rgb(17, 17, 17);
+}
+
+.logo{
+    background-color: rgb(0, 0, 0);
+    box-shadow: 1px 1px 2px rgb(90, 90, 90);
+    border-bottom-left-radius: 0.5cm;
+    border-bottom-right-radius: 0.5cm;
+}
+
+#services{
+    text-align: center;
+    margin-top: 1.6cm;
+    margin-left: 2cm;
+    float: left;
+    font-size: 30px;
+}
+
+
+#services:hover{
+    opacity: 0.8;
+}
+
+
+
+#prices{
+    text-align: center;
+    margin-top: 1.6cm;
+    margin-left: 2cm;
+    float: left;
+    font-size: 29px;
+}
+
+
+
+#prices:hover{
+    opacity: 0.8;
+}
+
+
+
+#Discord{
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    float: left;
+    font-size: 29px;
+    width: auto;
+    height: 2.3cm;
+}
+
+
+
+#Discord:hover{
+    opacity: 0.8;
+}
+
+
+
+#Instagram{
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    float: left;
+    font-size: 29px;
+    width: auto;
+    height: 2.3cm;
+}
+
+
+#Instagram:hover{
+    opacity: 0.8;
+}
+
+
+
+#Twitter{
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    float: left;
+    font-size: 29px;
+    width: auto;
+    height: 2.1cm;
+}
+
+
+
+#Twitter:hover{
+    opacity: 0.8;
+}
+
+
+
+#Twitch{
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    float: left;
+    font-size: 29px;
+    width: auto;
+    height: 2.4cm;
+}
+
+
+
+#Twitch:hover{
+    opacity: 0.8;
+}
+
+
+
+#logoimg{
+    float: left;
+    margin-left: 55px;
+}
+
+
+
+#Fondo{
+    position: absolute;
+    height: auto;
+    width: 34.6cm;
+    margin-top: 0.5cm;
+    margin-left: 0;
+    box-shadow: 1px 3px 1cm rgb(90, 90, 90);
+    border-top-left-radius: 0.5cm;
+    border-top-right-radius: 0.5cm;
+    border-bottom-left-radius: 0.5cm;
+    border-bottom-right-radius: 0.5cm;
+
+}
+
+#Fondo::-webkit-media-controls{
+    display: none;
+}
+
+
+#Capa{
+    position: absolute;
+    height: 19.5cm;
+    width: 34.6cm;
+    margin-top: 0.5cm;
+    margin-left: 0;
+    box-shadow: 1px 2px 1px solid rgb(90, 90, 90);
+    border-top-left-radius: 0.5cm;
+    border-top-right-radius: 0.5cm;
+    opacity: 0.5;
+}
+
+#Capa:hover{
+opacity: 0.6;
+}
+
+
+
+.Servicios{
+
+    position: absolute;
+}
+
+
+#Productos{
+
+    margin-top: 3cm;
+    margin-left: 6.5cm;
+    font-size: 2cm;
+}
+
+
+
+#Bo{
+
+    color: rgb(255, 255, 255);
+    margin-top: 3cm;
+    margin-left: 15.2cm;
+}
+
+#Bo:hover{
+
+    color: rgb(192, 192, 192);
+}
+
+
+
+
+
+
+#Hackin{
+
+    color: rgb(255, 255, 255);
+    margin-top: 3cm;
+    margin-left: 14.5cm;
+}
+
+#Hackin:hover{
+
+    color: rgb(192, 192, 192);
+}
+
+
+
+
+
+
+#Pagina{
+
+    color: rgb(255, 255, 255);
+    margin-top: 3cm;
+    margin-left: 13.4cm;
+}
+
+#Pagina:hover{
+
+    color: rgb(192, 192, 192);
+}
+
+
+
+
+#Fondo2{
+    position: absolute;
+    height: auto;
+    width: 34.6cm;
+    margin-top: 21.5cm;
+    margin-left: 0;
+    box-shadow: 1px 3px 1cm rgb(90, 90, 90);
+    border-top-left-radius: 0.5cm;
+    border-top-right-radius: 0.5cm;
+    border-bottom-left-radius: 0.5cm;
+    border-bottom-right-radius: 0.5cm;
+
+}
+
+#Fondo2::-webkit-media-controls{
+    display: none;
+}
+
+
+#Capa2{
+    position: absolute;
+    height: 19.5cm;
+    width: 34.6cm;
+    margin-top: 21.5cm;
+    margin-left: 0;
+    box-shadow: 1px 2px 1px solid rgb(90, 90, 90);
+    border-top-left-radius: 0.5cm;
+    border-top-right-radius: 0.5cm;
+    opacity: 0.5;
+}
+
+#Capa2:hover{
+opacity: 0.6;
+}
+
+
+
+.Precios2{
+
+    position: absolute;
+    text-shadow: 
+    3px  0px 0px black,
+    0px  3px 0px black,
+   -3px  0px 0px black,
+    0px -3px 0px black;
+}
+
+
+#Preciosxd{
+
+    margin-top: 24.5cm;
+    margin-left: 4cm;
+    font-size: 2cm;
+}
+
+
+
+#Preciostres{
+    position: absolute;
+    margin-top: 24.5cm;
+    margin-left: 14cm;
+    font-size: 2cm;
+}
+
+
+
+
+
+
+
+
+
+#Bot2{
+
+    color: rgb(255, 255, 255);
+    margin-top: 2cm;
+    margin-left: 15.2cm;
+}
+
+#Bot2:hover{
+
+    color: rgb(192, 192, 192);
+}
+
+
+
+
+
+
+#Hacking2{
+
+    color: rgb(255, 255, 255);
+    margin-top: 2cm;
+    margin-left: 14.5cm;
+}
+
+#Hacking2:hover{
+
+    color: rgb(192, 192, 192);
+}
+
+
+
+#Paginas2{
+
+    color: rgb(255, 255, 255);
+    margin-top: 2cm;
+    margin-left: 13.4cm;
+}
+
+#Paginas2:hover{
+
+    color: rgb(192, 192, 192);
+}
+
+
+
+
+#colorxd{
+
+    color: rgb(141, 141, 141);
+}
+
+
+
+#colorxd:hover{
+
+    color: rgb(59, 59, 59);
+}
